@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-<h3>Name: SANJAAY MANIKANDAN.M         </h3>
-<h3>Register Number: 212224060231 </h3>
+<h3>Name: SUJITHA ESTHER S       </h3>
+<h3>Register Number: 212224060266 </h3>
 <H3> Algorithm or Steps Involved:</H3>
 <ol>
   <li>Define the initial state</li>
