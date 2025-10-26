@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-#NAME: SUJITHA ESTHER S
-#REGISTER NUMBER:212224060266
+# NAME: SUJITHA ESTHER S
+# REGISTER NUMBER:212224060266
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
